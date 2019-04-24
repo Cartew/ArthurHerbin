@@ -1,0 +1,10 @@
+main {
+int a,b,c;
+cout << "Введите а: ";
+cin >> a;
+cout << "Введите b: ";
+cin >> b;
+c = a + b;
+cout << "Сумма a и b =" << c;
+}
+return 0;
